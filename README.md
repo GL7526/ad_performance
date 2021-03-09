@@ -7,8 +7,7 @@ Some arguments that lead me to believe that Facebook Ads would not perform well 
   <li>It's a platform where users are usually not focused on making purchases</li>
   <!--<li> </li>-->
   
-</ls>
-
+</ul>
 However, one can argue that maybe the main strategy for companies that want to promote their products on Facebook is to reach as wide of an audience as possible. Maybe products can be tailored to certain audiences who share an interest and will therefore perform better than we would expect.
 
 
