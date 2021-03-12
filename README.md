@@ -5,6 +5,8 @@ Initially, this project was done to see how effective Facebook Ads are. Since Fa
 Some arguments that lead me to believe that Facebook Ads would not perform well are:
 <ul>
   <li>It's a platform where users are usually not focused on making purchases</li>
+  <li>Content creators need to pay for more publicity on their posts, making publicity weighted more closely to the cost paid for the publicity/ad versus quality of the content/ad</li>
+  
   <!--<li> </li>-->
   
 </ul>
