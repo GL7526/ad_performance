@@ -22,3 +22,4 @@ These questions are explored through this project.
 <!-- talk about users/creators/advertisors and their interests -->
 
 # Measuring Performance
+Since the purpose of ads is the make sales, we can use the number of sales that the ad resulted in to gauge how well the ad did. However, this metric would make us prefer many small sales to few big sales, even if the few big sales resulted in more revenue. One way to solve this is to measure performance by using the revenue that the ad made due to its sales. This gives us more information in the form of dollars and also allows us to start thinking of ways to use the cost of the ad to measure how it's doing. Since we want to have higher revenue and lower costs for an ad, we can use a metric that divides the revenue of the ad by the cost of the ad. This incentivizes higher revenue and penalizes higher cost. This metric is called Return On Ad Spend (ROAS).
