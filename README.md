@@ -22,4 +22,15 @@ These questions are explored through this project.
 <!-- talk about users/creators/advertisors and their interests -->
 
 # Measuring Performance
-Since the purpose of ads is the make sales, we can use the number of sales that the ad resulted in to gauge how well the ad did. However, this metric would make us prefer many small sales to few big sales, even if the few big sales resulted in more revenue. One way to solve this is to measure performance by using the revenue that the ad made due to its sales. This gives us more information in the form of dollars and also allows us to start thinking of ways to use the cost of the ad to measure how it's doing. Since we want to have higher revenue and lower costs for an ad, we can use a metric that divides the revenue of the ad by the cost of the ad. This incentivizes higher revenue and penalizes higher cost. This metric is called Return On Ad Spend (ROAS).
+Since the purpose of ads is the make sales, we can use the number of sales that the ad resulted in to gauge how well the ad did. However, this metric would make us prefer many small sales to few big sales, even if the few big sales resulted in more revenue. One way to solve this is to measure performance by using the revenue that the ad made due to its sales. This gives us more information in the form of dollars and also allows us to start thinking of ways to use the cost of the ad to measure how it's doing. Since we want to have higher revenue and lower costs for an ad, we can use a metric that divides the revenue of the ad by the cost of the ad. This incentivizes higher revenue and penalizes higher cost. This metric is called Return On Ad Spend (ROAS). The higher the ROAS is for an ad, the better. If the ad makes as much as it cost, its ROAS would be equal to 1.
+
+Below, we can see the ROAS for each of the implemented ads over 4 weeks:
+
+<p align = "center">
+  <img src = "images/ROAS_per_ad.JPG" width = 550>
+</p>
+
+We see that the ads that perform well are ad_2, ad_3, and ad_8. ad_2 consistently performs well, ad_3 has a bad start but starts to do very well in the later weeks, while ad_8 does very well in the one week it was up.
+The ads that perform noticeably poorly are ad_4, ad_6, and ad_7. While all three of these consistently did not lead to purchases, ad_7 specifically made no sales at all over the four weeks that it was up.
+
+
