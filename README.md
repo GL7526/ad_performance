@@ -42,3 +42,6 @@ While ROAS seems like a good measure of performance of an ad, revenue isn't the 
 
 What's surprising here is that the ads that had the lowest ROAS (ad_4, ad_6, ad_7) actually have higher CTR by a good amount.
 However, once we learn that ad_7 is a giveaway, ad_4 is a Black Friday Cyber Monday sale, and that ad_6 is also a sale, it makes sense. People prefer buying things if they're on sale, or if they're free.
+
+
+<!-- # Takeaways /
