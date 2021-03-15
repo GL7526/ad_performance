@@ -33,7 +33,7 @@ Below, we can see the ROAS for each of the implemented ads over 4 weeks:
 - We see that the ads that perform well are ad_2, ad_3, and ad_8. ad_2 consistently performs well, ad_3 has a bad start but starts to do very well in the later weeks, while ad_8 does very well in the one week it was up.
 - The ads that perform noticeably poorly are ad_4, ad_6, and ad_7. While all three of these consistently did not lead to purchases, ad_7 specifically made no sales at all over the four weeks that it was up.
 
-# Website Traffice/Publicity
+# Website Traffic/Publicity
 While ROAS seems like a good measure of performance of an ad, revenue isn't the only thing a company may want. If a company is new, it may prefer to have publicity and visitors to its website. One way to measure this is an ad's click-through rate (CTR). This is the number of clicks on links within the ad divided by the number of times the ad was shown on screen. If we were to plot each ad's CTR, we obtain the following:
 
 <p align = "center">
