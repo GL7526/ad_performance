@@ -44,4 +44,7 @@ What's surprising here is that the ads that had the lowest ROAS (ad_4, ad_6, ad_
 However, once we learn that ad_7 is a giveaway, ad_4 is a Black Friday Cyber Monday sale, and that ad_6 is also a sale, it makes sense. People prefer buying things if they're on sale, or if they're free.
 
 
-<!-- # Takeaways /
+# Takeaways
+Compared to the number of people that the ad shows up for, the number of website leads that Facebook ads produces isn't great at all. However, since the ads reach such a large enough audience, they do end up making enough sales to make Facebook ads worth it.
+
+<!-- talk about how creators have to create the ads themselves vs. on youtube, advertisors are separate? -->
