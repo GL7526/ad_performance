@@ -45,6 +45,6 @@ However, once we learn that ad_7 is a giveaway, ad_4 is a Black Friday Cyber Mon
 
 
 # Takeaways
-Compared to the number of people that the ad shows up for, the number of website leads that Facebook ads produces isn't great at all. However, since the ads reach such a large enough audience, they do end up making enough sales to make Facebook ads worth it.
+Compared to the number of people that the ad shows up for, the number of website leads that Facebook ads produces isn't great at all. However, since the ads reach such a large enough audience, they do end up making enough sales to make Facebook ads "worth it". 
 
 <!-- talk about how creators have to create the ads themselves vs. on youtube, advertisors are separate? -->
