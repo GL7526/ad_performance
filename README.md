@@ -33,6 +33,8 @@ Below, we can see the ROAS for each of the implemented ads over 4 weeks:
 - We see that the ads that perform well are ad_2, ad_3, and ad_8. ad_2 consistently performs well, ad_3 has a bad start but starts to do very well in the later weeks, while ad_8 does very well in the one week it was up.
 - The ads that perform noticeably poorly are ad_4, ad_6, and ad_7. While all three of these consistently did not lead to purchases, ad_7 specifically made no sales at all over the four weeks that it was up.
 
+If we were to have removed all badly performing ads, the revenue over the 4 weeks would have increased by 77%.
+
 # Website Traffic/Publicity
 While ROAS seems like a good measure of performance of an ad, revenue isn't the only thing a company may want. If a company is new, it may prefer to have publicity and visitors to its website. One way to measure this is an ad's click-through rate (CTR). This is the number of clicks on links within the ad divided by the number of times the ad was shown on screen. If we were to plot each ad's CTR, we obtain the following:
 
@@ -45,6 +47,6 @@ However, once we learn that ad_7 is a giveaway, ad_4 is a Black Friday Cyber Mon
 
 
 # Takeaways
-Compared to the number of people that the ad shows up for, the number of website leads that Facebook ads produces isn't great at all. However, since the ads reach such a large enough audience, they do end up making enough sales to make Facebook ads "worth it". 
+Compared to the number of people that the ad shows up for, the number of website leads that Facebook ads produces isn't great at all. However, since the ads reach such a large enough audience, they do end up making enough sales to make Facebook ads "worth it".
 
 <!-- talk about how creators have to create the ads themselves vs. on youtube, advertisors are separate? -->
