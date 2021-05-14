@@ -3,20 +3,20 @@ Link to dashboard: https://datastudio.google.com/reporting/543bcf3a-0fe0-40ea-88
 
 
 # The Inspiration
-This project analyzes Shopify and Facebook Ads data.
-Initially, this project was done to see how effective Facebook Ads are. Since Facebook is a social media platform where users focus on interacting with each other, it's hard to see how Facebook Ads can normally perform well. 
-Some arguments that lead me to believe that Facebook Ads would not perform well are:
+This project analyzes ad and purchase data.
+Initially, this project was done to see how effective ads are on a social media website. Since social media platforms focus on interacting with each other, it's hard to see how ads can normally perform well. 
+Some arguments that lead me to believe that they would not perform well are:
 <ul>
   <li>It's a platform where users are usually not focused on making purchases</li>
-  <li>Content creators need to pay for more publicity on their posts, making publicity weighted more closely to the cost paid for the publicity/ad versus quality of the content/ad</li>
+  <li>Content creators would need to pay for more publicity on their posts, making publicity weighted more closely to the cost paid for the publicity/ad versus quality of the content/ad</li>
   
   <!--<li> </li>-->
   
 </ul>
 
-However, one can argue that maybe the main strategy for companies that want to promote their products on Facebook is to reach as wide of an audience as possible. Maybe products can be tailored to certain audiences who share an interest and will therefore perform better than we would expect.
+However, one can argue that maybe the main strategy for companies that want to promote their products on a social media website is to reach as wide of an audience as possible. Maybe products can be tailored to certain audiences who share an interest and will therefore perform better than we would expect.
 
-If this is the case, then how can we measure how successful a Facebook Ad is? Through the number of people the ad reaches out to? Through the number of people who end up actually making purchases?
+If this is the case, then how can we measure how successful an ad is? Through the number of people the ad reaches out to? Through the number of people who end up actually making purchases?
 
 These questions are explored through this project.
 <!-- talk about users/creators/advertisors and their interests -->
@@ -47,6 +47,6 @@ However, once we learn that ad_7 is a giveaway, ad_4 is a Black Friday Cyber Mon
 
 
 # Takeaways
-Compared to the number of people that the ad shows up for, the number of website leads that Facebook ads produces isn't great at all. However, since the ads reach such a large enough audience, they do end up making enough sales to make Facebook ads "worth it".
+Compared to the number of people that the ad shows up for, the number of website leads that social media ads produces isn't great at all. However, since the ads reach such a large enough audience, they do end up making enough sales to make them "worth it".
 
 <!-- talk about how creators have to create the ads themselves vs. on youtube, advertisors are separate? -->
