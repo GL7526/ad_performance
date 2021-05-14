@@ -4,7 +4,7 @@ Link to dashboard: https://datastudio.google.com/reporting/543bcf3a-0fe0-40ea-88
 
 # The Inspiration
 This project analyzes ad and purchase data.
-Initially, this project was done to see how effective ads are on a social media website. Since social media platforms focus on interacting with each other, it's hard to see how ads can normally perform well. 
+Initially, this project was done to see how effective ads are on a social media website. Since people on social media platforms focus on interacting with each other, it's hard to see how ads can normally perform well. 
 Some arguments that lead me to believe that they would not perform well are:
 <ul>
   <li>It's a platform where users are usually not focused on making purchases</li>
